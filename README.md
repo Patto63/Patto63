@@ -6,7 +6,7 @@
 
 ### <div align="center">👨‍💻  Hola! Yo soy Patricio Salazar   👨‍💻 </div>  
 
-<div align="center">Un joven estudiante universitario, apasionado por aprender más sobre programación, tecnología y ciencias.
+<div align="center">Un joven estudiante, apasionado por aprender más sobre programación, tecnología y ciencias.
 </div>  
   
 
