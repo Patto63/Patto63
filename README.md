@@ -1,7 +1,10 @@
-### Hi there 👋
+## Bienvenido a mi Perfil✌️  
 
-<!--
-**Patto63/Patto63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://freerangestock.com/sample/119557/web-developer--web-development--programmer--programming.jpg" align="center" style="width: 100%" />
+</div>  
+
+### <div align="center">👨‍💻  Hola! Yo soy Patricio Salazar   👨‍💻 </div>  
 
 Here are some ideas to get you started:
 
