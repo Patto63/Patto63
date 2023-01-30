@@ -95,4 +95,5 @@
 <img src="https://komarev.com/ghpvc/?username=Patto63&&style=flat-square" align="center" />
 </div>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Patto63" alt="Patto63" /></a> </p>
 <br/>
