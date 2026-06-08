@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy estudiante de Ingeniería en Software (séptimo semestre) con experiencia en el desarrollo de aplicaciones backend, APIs REST y gRPC, arquitecturas basadas en microservicios y despliegue con Docker, Azure DevOps y GitHub Actions. He trabajado en proyectos empresariales y académicos que abarcan bases de datos relacionales, sistemas distribuidos, inteligencia artificial y business intelligence.
+Soy estudiante de Ingeniería en Software (ocyavo semestre) con experiencia en el desarrollo de aplicaciones backend, APIs REST y gRPC, arquitecturas basadas en microservicios y despliegue con Docker, Azure DevOps y GitHub Actions. He trabajado en proyectos empresariales y académicos que abarcan bases de datos relacionales, sistemas distribuidos, inteligencia artificial y business intelligence.
 
 Me enfoco en aprender y aplicar buenas prácticas de desarrollo, automatización e infraestructura como código para crear productos de calidad.
 
